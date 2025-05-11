@@ -4,5 +4,6 @@ int main() {
     cout << "Your Name";
     cout << "Your Roll Number";
     cout << "FSC Subjects: Physics, Chemistry, Math";
+    cout << "1st Semester Subjects: Programming, ITS, Calculus";
     return 0;
 }
